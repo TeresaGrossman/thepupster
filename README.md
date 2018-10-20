@@ -9,8 +9,7 @@ Instructions
 
 2.  The application should render 8 different images to the screen. Each image should listen for click events.
 
-
-
+![](images/Pupster.jpg)
 
 3.  The application should keep track of the user's score. The user's score should be incremented when clicking an image for the first time. The user's score should be reset to 0 if they click the same image more than once.
 
