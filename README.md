@@ -24,8 +24,9 @@ ES6
 Bootstrap
 CSS
 
-Website
-https://teresagrossman.github.io/thepupster/
+Play the game via Heroku:
+https://thepupster.herokuapp.com
+
 
 Copyright
 Teresa Grossman 2018.  All rights reserved.
